@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name          = "shared"
-s.version       = "1.0-SNAPSHOT"
+s.version       = "1.1-SNAPSHOT"
 s.summary       = "This is a test KMP framework"
 s.homepage      = "https://github.com/Shiuend/KmmIntegrationSample-Shared"
 s.license       = "Apache"
